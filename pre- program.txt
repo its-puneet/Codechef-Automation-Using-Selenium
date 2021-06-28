@@ -1,0 +1,6 @@
+#first install selenium using - "!pip install selenium"  in console
+#then this- "!pip install webdriver_manager"
+#then install webdriver, by clicking - http://selenium-python.readthedocs.io/installation.html#drivers
+
+
+#Task- to submit code of problem- https://www.codechef.com/submit/TEST
